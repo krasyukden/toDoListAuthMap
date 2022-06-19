@@ -1,0 +1,4 @@
+.container{
+  width: 100vw;/*means 100% of the viewport width*/
+  height: 100vh;
+}
